@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "fname": "Nikhil",
+      "lname": "Bhosale",
+      "email": "nikhilbhosale369@gmail.com",
+      "contact_number": "7040242438",
+      "address": "Pune"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
